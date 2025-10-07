@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "name": "Cabinet - Base 24\"",
+      "quantity": 4,
+      "unit": "piece",
+      "category": "cabinetry",
+      "description": "24-inch base cabinet with soft-close doors"
+    },
+    {
+      "name": "Cabinet - Wall 30\"",
+      "quantity": 6,
+      "unit": "piece",
+      "category": "cabinetry",
+      "description": "30-inch wall cabinet with adjustable shelves"
+    },
+    {
+      "name": "Cabinet - Corner Base",
+      "quantity": 1,
+      "unit": "piece",
+      "category": "cabinetry",
+      "description": "Corner base cabinet with lazy susan"
+    },
+    {
+      "name": "Granite Countertop",
+      "quantity": 25,
+      "unit": "sq ft",
+      "category": "countertops",
+      "description": "Black granite countertop with polished finish"
+    },
+    {
+      "name": "Undermount Sink",
+      "quantity": 1,
+      "unit": "piece",
+      "category": "fixtures",
+      "description": "Stainless steel double-basin undermount sink"
+    },
+    {
+      "name": "Kitchen Faucet",
+      "quantity": 1,
+      "unit": "piece",
+      "category": "fixtures",
+      "description": "Pull-down kitchen faucet with spray function"
+    },
+    {
+      "name": "Tile Backsplash",
+      "quantity": 15,
+      "unit": "sq ft",
+      "category": "finishing",
+      "description": "Subway tile backsplash, 3x6 inch white ceramic"
+    },
+    {
+      "name": "Cabinet Hardware - Handles",
+      "quantity": 20,
+      "unit": "piece",
+      "category": "hardware",
+      "description": "Brushed nickel cabinet handles, 4 inch"
+    },
+    {
+      "name": "Cabinet Hardware - Knobs",
+      "quantity": 10,
+      "unit": "piece",
+      "category": "hardware",
+      "description": "Brushed nickel cabinet knobs, 1.5 inch"
+    },
+    {
+      "name": "Range Hood",
+      "quantity": 1,
+      "unit": "piece",
+      "category": "appliances",
+      "description": "30-inch under-cabinet range hood, 400 CFM"
+    },
+    {
+      "name": "Recessed Lighting",
+      "quantity": 6,
+      "unit": "piece",
+      "category": "lighting",
+      "description": "LED recessed lights, 4-inch trim"
+    },
+    {
+      "name": "Pendant Light",
+      "quantity": 3,
+      "unit": "piece",
+      "category": "lighting",
+      "description": "Island pendant lights, glass shade"
+    }
+  ]
+}
